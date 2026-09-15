@@ -1,3 +1,4 @@
 DevOps ogreniyorum
 Docker ogreniyorum 
-Bu sadece test branch'inde
+test branc'ina ozel degisiklik
+Bu sadece test branck'inde
